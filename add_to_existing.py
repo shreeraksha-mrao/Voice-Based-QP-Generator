@@ -75,6 +75,6 @@ def add_to_existing_questionbank(parent):
     tk.Label(frame, textvariable=label_var).pack()
 
     # Add close button
-    tk.Button(root, text="Go Back", command=close_window).pack(side=tk.BOTTOM, pady=10)
+    tk.Button(root, text="Go Backk", command=close_window).pack(side=tk.BOTTOM, pady=10)
 
     root.mainloop()
